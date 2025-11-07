@@ -431,9 +431,9 @@ https://localhost:5001/swagger
 
 ## 💬 社区
 
-- **问题反馈**: [GitHub Issues](https://github.com/your-repo/synapse/issues)
-- **功能建议**: [GitHub Discussions](https://github.com/your-repo/synapse/discussions)
-- **邮件**: your-email@example.com
+- **问题反馈**: [GitHub Issues](https://github.com/lb-li/synapse/issues)
+- **功能建议**: [GitHub Discussions](https://github.com/lb-li/synapse/discussions)
+- **邮件**: hw7455195@gmail.com
 
 ## 📄 许可证
 
